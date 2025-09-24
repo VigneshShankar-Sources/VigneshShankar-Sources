@@ -32,7 +32,7 @@ Here are some of my works hosted on GitHub:
 
 
 ## 📈 Competitive Programming
-![LeetCode Stats](https://leetcode.com/u/vigneshcoder22)  
+[LeetCode Stats](https://leetcode.com/u/vigneshcoder22)  
 
 ---
 
