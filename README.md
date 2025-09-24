@@ -22,6 +22,14 @@ I aim to build a strong foundation in **chip design** and contribute to real-wor
 - Exploring **IoT + VLSI integration** for real-world applications  
 
 ---
+## 🚀 Projects
+Here are some of my works hosted on GitHub:  
+
+- 🔹 [VLSI Frontend Mini Projects](https://vigneshshankar-sources.github.io/VisitorTime-website)  
+
+*(More coming soon — stay tuned!)*  
+
+
 
 ## 📈 Competitive Programming
 ![LeetCode Stats](https://leetcode.com/u/vigneshcoder22)  
