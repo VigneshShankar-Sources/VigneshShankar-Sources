@@ -23,17 +23,6 @@ I aim to build a strong foundation in **chip design** and contribute to real-wor
 
 ---
 
-## 🚀 Projects
-Here are some of my works hosted on GitHub:  
-
-- 🔹 [VLSI Frontend Mini Projects](https://github.com/Vignesh-Resources/vlsi-frontend-projects)  
-- 🔹 [IoT & Embedded Prototypes](https://github.com/Vignesh-Resources/iot-embedded-projects)  
-- 🔹 [Data Structures & Algorithms Practice](https://github.com/Vignesh-Resources/dsa-practice)  
-
-*(More coming soon — stay tuned!)*  
-
----
-
 ## 📈 Competitive Programming
 ![LeetCode Stats](https://leetcode.com/u/vigneshcoder22)  
 
