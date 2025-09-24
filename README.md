@@ -1,16 +1,50 @@
-## Hi there 👋
+# Vignesh-Resources
 
+## 👋 About Me
+I am **Vignesh**, currently pursuing my 2nd year in the **VLSI domain**.  
+My interests include **Front-End Design**, **IoT & Embedded Systems**, and exploring innovative hardware-software integration.  
+I aim to build a strong foundation in **chip design** and contribute to real-world projects in **semiconductors and embedded solutions**.  
 
-**VigneshShankar-Sources/VigneshShankar-Sources** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Programming Languages**: Python, C, C++, Mruby  
+- **Web Development**: HTML, CSS  
+- **Hardware & Embedded Systems**: Arduino, IoT Prototyping  
+- **Design & Visualization**: Blender, Photoshop  
+- **Additional Tools**: Git/GitHub, Linux Basics  
 
-- 🔭 I’m currently working on VLSI
-- 🌱 I’m currently learning Frontend Dev
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📖 Currently Learning
+- **Verilog HDL** for digital design  
+- **Data Structures & Algorithms** to strengthen problem-solving  
+- Exploring **IoT + VLSI integration** for real-world applications  
+
+---
+
+## 🚀 Projects
+Here are some of my works hosted on GitHub:  
+
+- 🔹 [VLSI Frontend Mini Projects](https://github.com/Vignesh-Resources/vlsi-frontend-projects)  
+- 🔹 [IoT & Embedded Prototypes](https://github.com/Vignesh-Resources/iot-embedded-projects)  
+- 🔹 [Data Structures & Algorithms Practice](https://github.com/Vignesh-Resources/dsa-practice)  
+
+*(More coming soon — stay tuned!)*  
+
+---
+
+## 📈 Competitive Programming
+![LeetCode Stats](https://leetcode.com/u/vigneshcoder22)  
+
+---
+
+## 📊 GitHub Stats
+![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vignesh-Resources&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Resources&layout=compact&theme=default)  
+
+---
+
+## 📫 Connect with Me
+- **Email**: [vigneshss2006@gmail.com](mailto:vigneshss2006@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/vickyysha08](https://www.linkedin.com/in/vickyysha08)  
