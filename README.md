@@ -1,7 +1,7 @@
 # Vignesh-Resources
 
 ## 👋 About Me
-I am **Vignesh**, currently pursuing my 2nd year in the **VLSI domain**.  
+I am **Vignesh**, currently pursuing my 3rd year in the **VLSI Design**.  
 My interests include **Front-End Design**, **IoT & Embedded Systems**, and exploring innovative hardware-software integration.  
 I aim to build a strong foundation in **chip design** and contribute to real-world projects in **semiconductors and embedded solutions**.  
 
